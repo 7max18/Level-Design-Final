@@ -1,7 +1,343 @@
 fileFormatVersion: 2
 guid: bd52f37054d0a6146a06ddc4b02cb078
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 7942599720886164035
+    second: '[32x32] Dungeon Bricks Shadow_0'
+  - first:
+      213: 332730465491538834
+    second: '[32x32] Dungeon Bricks Shadow_1'
+  - first:
+      213: 1347078488687135984
+    second: '[32x32] Dungeon Bricks Shadow_2'
+  - first:
+      213: 5034685801082698003
+    second: '[32x32] Dungeon Bricks Shadow_3'
+  - first:
+      213: 200445644403648517
+    second: '[32x32] Dungeon Bricks Shadow_4'
+  - first:
+      213: 5458461351048863731
+    second: '[32x32] Dungeon Bricks Shadow_5'
+  - first:
+      213: -8629186879586850946
+    second: '[32x32] Dungeon Bricks Shadow_6'
+  - first:
+      213: 8111164990054686596
+    second: '[32x32] Dungeon Bricks Shadow_7'
+  - first:
+      213: -3582271767697786202
+    second: '[32x32] Dungeon Bricks Shadow_8'
+  - first:
+      213: -1409902789022850425
+    second: '[32x32] Dungeon Bricks Shadow_9'
+  - first:
+      213: 7550611601821376457
+    second: '[32x32] Dungeon Bricks Shadow_10'
+  - first:
+      213: 1568231385429430235
+    second: '[32x32] Dungeon Bricks Shadow_11'
+  - first:
+      213: -6407598749299084050
+    second: '[32x32] Dungeon Bricks Shadow_12'
+  - first:
+      213: -8837156079822820136
+    second: '[32x32] Dungeon Bricks Shadow_13'
+  - first:
+      213: -1498732999817187200
+    second: '[32x32] Dungeon Bricks Shadow_14'
+  - first:
+      213: -6427773554939474297
+    second: '[32x32] Dungeon Bricks Shadow_15'
+  - first:
+      213: -6075859173147475034
+    second: '[32x32] Dungeon Bricks Shadow_16'
+  - first:
+      213: -3195818502646122911
+    second: '[32x32] Dungeon Bricks Shadow_17'
+  - first:
+      213: 8198243033588391064
+    second: '[32x32] Dungeon Bricks Shadow_18'
+  - first:
+      213: 2739819859257776268
+    second: '[32x32] Dungeon Bricks Shadow_19'
+  - first:
+      213: 8406455019377780876
+    second: '[32x32] Dungeon Bricks Shadow_20'
+  - first:
+      213: -3777932888759724149
+    second: '[32x32] Dungeon Bricks Shadow_21'
+  - first:
+      213: 8678701844222397381
+    second: '[32x32] Dungeon Bricks Shadow_22'
+  - first:
+      213: 8383508241107823927
+    second: '[32x32] Dungeon Bricks Shadow_23'
+  - first:
+      213: 4576953612872463987
+    second: '[32x32] Dungeon Bricks Shadow_24'
+  - first:
+      213: -5453575686872468513
+    second: '[32x32] Dungeon Bricks Shadow_25'
+  - first:
+      213: -71243249143561144
+    second: '[32x32] Dungeon Bricks Shadow_26'
+  - first:
+      213: 3211751907941036962
+    second: '[32x32] Dungeon Bricks Shadow_27'
+  - first:
+      213: 7588499042790374398
+    second: '[32x32] Dungeon Bricks Shadow_28'
+  - first:
+      213: 7955038831560720274
+    second: '[32x32] Dungeon Bricks Shadow_29'
+  - first:
+      213: 7955298526210021287
+    second: '[32x32] Dungeon Bricks Shadow_30'
+  - first:
+      213: -2040226424419661673
+    second: '[32x32] Dungeon Bricks Shadow_31'
+  - first:
+      213: -2982142921873817867
+    second: '[32x32] Dungeon Bricks Shadow_32'
+  - first:
+      213: -3122350969111979
+    second: '[32x32] Dungeon Bricks Shadow_33'
+  - first:
+      213: -3795759988621780316
+    second: '[32x32] Dungeon Bricks Shadow_34'
+  - first:
+      213: 2014429027173402889
+    second: '[32x32] Dungeon Bricks Shadow_35'
+  - first:
+      213: 3739462007498363433
+    second: '[32x32] Dungeon Bricks Shadow_36'
+  - first:
+      213: 770715315204076720
+    second: '[32x32] Dungeon Bricks Shadow_37'
+  - first:
+      213: -3871767965326825734
+    second: '[32x32] Dungeon Bricks Shadow_38'
+  - first:
+      213: 6653886384016420518
+    second: '[32x32] Dungeon Bricks Shadow_39'
+  - first:
+      213: 1518138451360850642
+    second: '[32x32] Dungeon Bricks Shadow_40'
+  - first:
+      213: 1760720987845023153
+    second: '[32x32] Dungeon Bricks Shadow_41'
+  - first:
+      213: 7088490177552981288
+    second: '[32x32] Dungeon Bricks Shadow_42'
+  - first:
+      213: 3654583413829671286
+    second: '[32x32] Dungeon Bricks Shadow_43'
+  - first:
+      213: -2166039896908984283
+    second: '[32x32] Dungeon Bricks Shadow_44'
+  - first:
+      213: -7065645267865992944
+    second: '[32x32] Dungeon Bricks Shadow_45'
+  - first:
+      213: -4811318099800455206
+    second: '[32x32] Dungeon Bricks Shadow_46'
+  - first:
+      213: 6567694986263945051
+    second: '[32x32] Dungeon Bricks Shadow_47'
+  - first:
+      213: -254623749206411347
+    second: '[32x32] Dungeon Bricks Shadow_48'
+  - first:
+      213: 4470153238167273856
+    second: '[32x32] Dungeon Bricks Shadow_49'
+  - first:
+      213: 5235665777403773146
+    second: '[32x32] Dungeon Bricks Shadow_50'
+  - first:
+      213: -7944511154626843237
+    second: '[32x32] Dungeon Bricks Shadow_51'
+  - first:
+      213: -6206743166381053106
+    second: '[32x32] Dungeon Bricks Shadow_52'
+  - first:
+      213: 4925934542316543591
+    second: '[32x32] Dungeon Bricks Shadow_53'
+  - first:
+      213: 1355275690507871571
+    second: '[32x32] Dungeon Bricks Shadow_54'
+  - first:
+      213: 2748129442280046358
+    second: '[32x32] Dungeon Bricks Shadow_55'
+  - first:
+      213: -3475195658895166487
+    second: '[32x32] Dungeon Bricks Shadow_0'
+  - first:
+      213: -4287218719783185431
+    second: '[32x32] Dungeon Bricks Shadow_1'
+  - first:
+      213: -1034178975291382112
+    second: '[32x32] Dungeon Bricks Shadow_2'
+  - first:
+      213: 4411326636851584424
+    second: '[32x32] Dungeon Bricks Shadow_3'
+  - first:
+      213: 2041398600566376782
+    second: '[32x32] Dungeon Bricks Shadow_4'
+  - first:
+      213: 6477332022656356865
+    second: '[32x32] Dungeon Bricks Shadow_5'
+  - first:
+      213: -233655910947736157
+    second: '[32x32] Dungeon Bricks Shadow_6'
+  - first:
+      213: -879744160584753886
+    second: '[32x32] Dungeon Bricks Shadow_7'
+  - first:
+      213: 7598528748964850630
+    second: '[32x32] Dungeon Bricks Shadow_8'
+  - first:
+      213: 3857231325032130198
+    second: '[32x32] Dungeon Bricks Shadow_9'
+  - first:
+      213: 7121594941042367735
+    second: '[32x32] Dungeon Bricks Shadow_10'
+  - first:
+      213: 8507602687954985971
+    second: '[32x32] Dungeon Bricks Shadow_11'
+  - first:
+      213: 6936940986889305447
+    second: '[32x32] Dungeon Bricks Shadow_12'
+  - first:
+      213: -1018454026934679555
+    second: '[32x32] Dungeon Bricks Shadow_13'
+  - first:
+      213: 8031969936239445233
+    second: '[32x32] Dungeon Bricks Shadow_14'
+  - first:
+      213: 8622524747156241021
+    second: '[32x32] Dungeon Bricks Shadow_15'
+  - first:
+      213: 3533461664619224875
+    second: '[32x32] Dungeon Bricks Shadow_16'
+  - first:
+      213: -2553729910449472352
+    second: '[32x32] Dungeon Bricks Shadow_17'
+  - first:
+      213: -6670623151871522125
+    second: '[32x32] Dungeon Bricks Shadow_18'
+  - first:
+      213: 5961866709874245064
+    second: '[32x32] Dungeon Bricks Shadow_19'
+  - first:
+      213: 589490540721466415
+    second: '[32x32] Dungeon Bricks Shadow_20'
+  - first:
+      213: 1364131058732119063
+    second: '[32x32] Dungeon Bricks Shadow_21'
+  - first:
+      213: 6911914723949608138
+    second: '[32x32] Dungeon Bricks Shadow_22'
+  - first:
+      213: -8056880162452094699
+    second: '[32x32] Dungeon Bricks Shadow_23'
+  - first:
+      213: -1674155193171501847
+    second: '[32x32] Dungeon Bricks Shadow_24'
+  - first:
+      213: 9143414439936224530
+    second: '[32x32] Dungeon Bricks Shadow_25'
+  - first:
+      213: -4382917047675739656
+    second: '[32x32] Dungeon Bricks Shadow_26'
+  - first:
+      213: 2537895887807737833
+    second: '[32x32] Dungeon Bricks Shadow_27'
+  - first:
+      213: -5128398706718421437
+    second: '[32x32] Dungeon Bricks Shadow_28'
+  - first:
+      213: 1460937302593943734
+    second: '[32x32] Dungeon Bricks Shadow_29'
+  - first:
+      213: -8299241947883151719
+    second: '[32x32] Dungeon Bricks Shadow_30'
+  - first:
+      213: 3848737860841500542
+    second: '[32x32] Dungeon Bricks Shadow_31'
+  - first:
+      213: -8716943077325785665
+    second: '[32x32] Dungeon Bricks Shadow_32'
+  - first:
+      213: 4531303964218974940
+    second: '[32x32] Dungeon Bricks Shadow_33'
+  - first:
+      213: -5396647333612105394
+    second: '[32x32] Dungeon Bricks Shadow_34'
+  - first:
+      213: -5054134860809358062
+    second: '[32x32] Dungeon Bricks Shadow_35'
+  - first:
+      213: -265890079231431907
+    second: '[32x32] Dungeon Bricks Shadow_36'
+  - first:
+      213: 4069102754814933034
+    second: '[32x32] Dungeon Bricks Shadow_37'
+  - first:
+      213: 6285844556975530844
+    second: '[32x32] Dungeon Bricks Shadow_38'
+  - first:
+      213: -982276559408274933
+    second: '[32x32] Dungeon Bricks Shadow_39'
+  - first:
+      213: -1173598505065751830
+    second: '[32x32] Dungeon Bricks Shadow_40'
+  - first:
+      213: 8876508261114903198
+    second: '[32x32] Dungeon Bricks Shadow_41'
+  - first:
+      213: -1453138150915751089
+    second: '[32x32] Dungeon Bricks Shadow_42'
+  - first:
+      213: 4250669760433098833
+    second: '[32x32] Dungeon Bricks Shadow_43'
+  - first:
+      213: 6730808972779475839
+    second: '[32x32] Dungeon Bricks Shadow_44'
+  - first:
+      213: 3122184136654279973
+    second: '[32x32] Dungeon Bricks Shadow_45'
+  - first:
+      213: -6233718993839744658
+    second: '[32x32] Dungeon Bricks Shadow_46'
+  - first:
+      213: -3963231903118313488
+    second: '[32x32] Dungeon Bricks Shadow_47'
+  - first:
+      213: -5923591317829526978
+    second: '[32x32] Dungeon Bricks Shadow_48'
+  - first:
+      213: -7728248021707204557
+    second: '[32x32] Dungeon Bricks Shadow_49'
+  - first:
+      213: 630413434087935876
+    second: '[32x32] Dungeon Bricks Shadow_50'
+  - first:
+      213: 8806154889775268279
+    second: '[32x32] Dungeon Bricks Shadow_51'
+  - first:
+      213: -8319207139187012588
+    second: '[32x32] Dungeon Bricks Shadow_52'
+  - first:
+      213: -5992436612447934407
+    second: '[32x32] Dungeon Bricks Shadow_53'
+  - first:
+      213: -7048442902794309118
+    second: '[32x32] Dungeon Bricks Shadow_54'
+  - first:
+      213: -2684840482962717606
+    second: '[32x32] Dungeon Bricks Shadow_55'
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -87,7 +423,1183 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Shadow_0'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3f29ae5ff95cfc0800000000000000
+      internalID: -3475195658895166487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Shadow_1'
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e31becf94db084c0800000000000000
+      internalID: -4287218719783185431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Shadow_2'
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6649783bbd5a1f0800000000000000
+      internalID: -1034178975291382112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Shadow_3'
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8add1c9343e283d30800000000000000
+      internalID: 4411326636851584424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Shadow_4'
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e490dbf1631845c10800000000000000
+      internalID: 2041398600566376782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Shadow_5'
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102d1bef72b14e950800000000000000
+      internalID: 6477332022656356865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Shadow_6'
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a53a4cdf23e1ccf0800000000000000
+      internalID: -233655910947736157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Shadow_7'
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d1f17d8558ac3f0800000000000000
+      internalID: -879744160584753886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Shadow_8'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cba4a173a5637960800000000000000
+      internalID: 7598528748964850630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Shadow_9'
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696ac012473a78530800000000000000
+      internalID: 3857231325032130198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Shadow_10'
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc9c07fddcf4d260800000000000000
+      internalID: 7121594941042367735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Shadow_11'
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f327b9c193111670800000000000000
+      internalID: 8507602687954985971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Shadow_12'
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d7267f217f44060800000000000000
+      internalID: 6936940986889305447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Shadow_13'
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df70e706579bdd1f0800000000000000
+      internalID: -1018454026934679555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Shadow_14'
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f44b201a1a477f60800000000000000
+      internalID: 8031969936239445233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Shadow_15'
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a334dc29c59a770800000000000000
+      internalID: 8622524747156241021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Shadow_16'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2fd613b9a0690130800000000000000
+      internalID: 3533461664619224875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Shadow_17'
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac7e5b3d245f8cd0800000000000000
+      internalID: -2553729910449472352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Shadow_18'
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba833af59f2d63a0800000000000000
+      internalID: -6670623151871522125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Shadow_19'
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cdf7407f2eccb250800000000000000
+      internalID: 5961866709874245064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Shadow_20'
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ce726068a4e2800800000000000000
+      internalID: 589490540721466415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Shadow_21'
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7143ece68fd5ee210800000000000000
+      internalID: 1364131058732119063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Shadow_22'
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: accfece02dd0cef50800000000000000
+      internalID: 6911914723949608138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Shadow_23'
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511c62fed26303090800000000000000
+      internalID: -8056880162452094699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Shadow_24'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec132cc8b434c8e0800000000000000
+      internalID: -1674155193171501847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Shadow_25'
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d639e3dfee3ee70800000000000000
+      internalID: 9143414439936224530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Shadow_26'
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1a845ba20cc23c0800000000000000
+      internalID: -4382917047675739656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Shadow_27'
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef64b51dda683320800000000000000
+      internalID: 2537895887807737833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Shadow_28'
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ec9733c8444d8b0800000000000000
+      internalID: -5128398706718421437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Shadow_29'
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8ba308cba464410800000000000000
+      internalID: 1460937302593943734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Shadow_30'
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e576f6b6b23dc80800000000000000
+      internalID: -8299241947883151719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Shadow_31'
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7fed0561b6796530800000000000000
+      internalID: 3848737860841500542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Shadow_32'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb532bc9472370780800000000000000
+      internalID: -8716943077325785665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Shadow_33'
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2679492fc62ee30800000000000000
+      internalID: 4531303964218974940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Shadow_34'
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41ddfdb7d14b15b0800000000000000
+      internalID: -5396647333612105394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Shadow_35'
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2153a8e3f1b1cd9b0800000000000000
+      internalID: -5054134860809358062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Shadow_36'
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b2c16b16e5f4cf0800000000000000
+      internalID: -265890079231431907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Shadow_37'
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28be4f756b587830800000000000000
+      internalID: 4069102754814933034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Shadow_38'
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5369db125ecb3750800000000000000
+      internalID: 6285844556975530844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Shadow_39'
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02e64d6ca04e52f0800000000000000
+      internalID: -982276559408274933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Shadow_40'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea50aca06a86bfe0800000000000000
+      internalID: -1173598505065751830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Shadow_41'
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9af295db31bf2b70800000000000000
+      internalID: 8876508261114903198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Shadow_42'
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4349110d8a65dbe0800000000000000
+      internalID: -1453138150915751089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Shadow_43'
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1501c1840a96dfa30800000000000000
+      internalID: 4250669760433098833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Shadow_44'
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7358817913a86d50800000000000000
+      internalID: 6730808972779475839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Shadow_45'
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52553a42ee9345b20800000000000000
+      internalID: 3122184136654279973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Shadow_46'
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69939e4a916d79a0800000000000000
+      internalID: -6233718993839744658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Shadow_47'
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7332c0595cff8c0800000000000000
+      internalID: -3963231903118313488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Shadow_48'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ade2ab41d2bcda0800000000000000
+      internalID: -5923591317829526978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Shadow_49'
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338d60ace5fbfb490800000000000000
+      internalID: -7728248021707204557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Shadow_50'
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f0270adadafb800800000000000000
+      internalID: 630413434087935876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Shadow_51'
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1cf1a173fb53a70800000000000000
+      internalID: 8806154889775268279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Shadow_52'
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c4dd71f2d3c8c80800000000000000
+      internalID: -8319207139187012588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Shadow_53'
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938eef776a696dca0800000000000000
+      internalID: -5992436612447934407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Shadow_54'
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202725f2686ee2e90800000000000000
+      internalID: -7048442902794309118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Shadow_55'
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a544b6e3ec78dbad0800000000000000
+      internalID: -2684840482962717606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

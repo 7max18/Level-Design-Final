@@ -1,7 +1,343 @@
 fileFormatVersion: 2
 guid: d0a667e5d309db947b07afca81fd4e02
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -6839992623518624338
+    second: '[32x32] Dungeon Bricks Plain_0'
+  - first:
+      213: -1300307297922700110
+    second: '[32x32] Dungeon Bricks Plain_1'
+  - first:
+      213: -1739810312532274495
+    second: '[32x32] Dungeon Bricks Plain_2'
+  - first:
+      213: -684024206650303719
+    second: '[32x32] Dungeon Bricks Plain_3'
+  - first:
+      213: -957615279990310210
+    second: '[32x32] Dungeon Bricks Plain_4'
+  - first:
+      213: -4203072838611974362
+    second: '[32x32] Dungeon Bricks Plain_5'
+  - first:
+      213: 5672451917096995758
+    second: '[32x32] Dungeon Bricks Plain_6'
+  - first:
+      213: -2415659194576743267
+    second: '[32x32] Dungeon Bricks Plain_7'
+  - first:
+      213: -7846251196615748995
+    second: '[32x32] Dungeon Bricks Plain_8'
+  - first:
+      213: 2648770507659393379
+    second: '[32x32] Dungeon Bricks Plain_9'
+  - first:
+      213: -3016289298674398084
+    second: '[32x32] Dungeon Bricks Plain_10'
+  - first:
+      213: 4682548644406117795
+    second: '[32x32] Dungeon Bricks Plain_11'
+  - first:
+      213: 8049807739999098160
+    second: '[32x32] Dungeon Bricks Plain_12'
+  - first:
+      213: 306851384950507936
+    second: '[32x32] Dungeon Bricks Plain_13'
+  - first:
+      213: 3756697189351163732
+    second: '[32x32] Dungeon Bricks Plain_14'
+  - first:
+      213: 1856435626972723165
+    second: '[32x32] Dungeon Bricks Plain_15'
+  - first:
+      213: 9030212101992953691
+    second: '[32x32] Dungeon Bricks Plain_16'
+  - first:
+      213: -9054103227102091284
+    second: '[32x32] Dungeon Bricks Plain_17'
+  - first:
+      213: -4958229746081187780
+    second: '[32x32] Dungeon Bricks Plain_18'
+  - first:
+      213: -3140021650131989356
+    second: '[32x32] Dungeon Bricks Plain_19'
+  - first:
+      213: -1178831239810134417
+    second: '[32x32] Dungeon Bricks Plain_20'
+  - first:
+      213: -2694592312549614011
+    second: '[32x32] Dungeon Bricks Plain_21'
+  - first:
+      213: 1999396041394825481
+    second: '[32x32] Dungeon Bricks Plain_22'
+  - first:
+      213: 8060318314145048430
+    second: '[32x32] Dungeon Bricks Plain_23'
+  - first:
+      213: 6444920040908575845
+    second: '[32x32] Dungeon Bricks Plain_24'
+  - first:
+      213: 580357740799529969
+    second: '[32x32] Dungeon Bricks Plain_25'
+  - first:
+      213: 1230820982523602116
+    second: '[32x32] Dungeon Bricks Plain_26'
+  - first:
+      213: 5340719780569853297
+    second: '[32x32] Dungeon Bricks Plain_27'
+  - first:
+      213: 5135455975985498762
+    second: '[32x32] Dungeon Bricks Plain_28'
+  - first:
+      213: -8232446803697347589
+    second: '[32x32] Dungeon Bricks Plain_29'
+  - first:
+      213: -6410500979711384335
+    second: '[32x32] Dungeon Bricks Plain_30'
+  - first:
+      213: 44152198495507815
+    second: '[32x32] Dungeon Bricks Plain_31'
+  - first:
+      213: 7225246852284442511
+    second: '[32x32] Dungeon Bricks Plain_32'
+  - first:
+      213: 3214532774148259567
+    second: '[32x32] Dungeon Bricks Plain_33'
+  - first:
+      213: 6650574329274561204
+    second: '[32x32] Dungeon Bricks Plain_34'
+  - first:
+      213: -5016236012076263205
+    second: '[32x32] Dungeon Bricks Plain_35'
+  - first:
+      213: -4556784315845266941
+    second: '[32x32] Dungeon Bricks Plain_36'
+  - first:
+      213: -45262346219461792
+    second: '[32x32] Dungeon Bricks Plain_37'
+  - first:
+      213: 2306118411742074534
+    second: '[32x32] Dungeon Bricks Plain_38'
+  - first:
+      213: -1710579510644773330
+    second: '[32x32] Dungeon Bricks Plain_39'
+  - first:
+      213: -204764981448788721
+    second: '[32x32] Dungeon Bricks Plain_40'
+  - first:
+      213: -3048026048720704149
+    second: '[32x32] Dungeon Bricks Plain_41'
+  - first:
+      213: -5106045080334385998
+    second: '[32x32] Dungeon Bricks Plain_42'
+  - first:
+      213: 4316273335361300884
+    second: '[32x32] Dungeon Bricks Plain_43'
+  - first:
+      213: 6910678786777274486
+    second: '[32x32] Dungeon Bricks Plain_44'
+  - first:
+      213: -3633707285664436728
+    second: '[32x32] Dungeon Bricks Plain_45'
+  - first:
+      213: -969728841642232142
+    second: '[32x32] Dungeon Bricks Plain_46'
+  - first:
+      213: -6656216400397377720
+    second: '[32x32] Dungeon Bricks Plain_47'
+  - first:
+      213: -5280147962662336305
+    second: '[32x32] Dungeon Bricks Plain_48'
+  - first:
+      213: 7760845973789304126
+    second: '[32x32] Dungeon Bricks Plain_49'
+  - first:
+      213: -7529871418079491294
+    second: '[32x32] Dungeon Bricks Plain_50'
+  - first:
+      213: -5943440754622183000
+    second: '[32x32] Dungeon Bricks Plain_51'
+  - first:
+      213: 1918003321311694475
+    second: '[32x32] Dungeon Bricks Plain_52'
+  - first:
+      213: -5948223244068889294
+    second: '[32x32] Dungeon Bricks Plain_53'
+  - first:
+      213: -5767557558974816843
+    second: '[32x32] Dungeon Bricks Plain_54'
+  - first:
+      213: -6445101848896986429
+    second: '[32x32] Dungeon Bricks Plain_55'
+  - first:
+      213: -3671945233209203654
+    second: '[32x32] Dungeon Bricks Plain_0'
+  - first:
+      213: 1107770089947707571
+    second: '[32x32] Dungeon Bricks Plain_1'
+  - first:
+      213: 2985317629149090451
+    second: '[32x32] Dungeon Bricks Plain_2'
+  - first:
+      213: 3451026614486026245
+    second: '[32x32] Dungeon Bricks Plain_3'
+  - first:
+      213: 699974617462915990
+    second: '[32x32] Dungeon Bricks Plain_4'
+  - first:
+      213: -3470189181013610505
+    second: '[32x32] Dungeon Bricks Plain_5'
+  - first:
+      213: -3773109235131734886
+    second: '[32x32] Dungeon Bricks Plain_6'
+  - first:
+      213: -8267092916119531623
+    second: '[32x32] Dungeon Bricks Plain_7'
+  - first:
+      213: -3156510048251495769
+    second: '[32x32] Dungeon Bricks Plain_8'
+  - first:
+      213: -8518761268773062646
+    second: '[32x32] Dungeon Bricks Plain_9'
+  - first:
+      213: -1581479899292374792
+    second: '[32x32] Dungeon Bricks Plain_10'
+  - first:
+      213: 3601580373606282648
+    second: '[32x32] Dungeon Bricks Plain_11'
+  - first:
+      213: -2613151165929268483
+    second: '[32x32] Dungeon Bricks Plain_12'
+  - first:
+      213: -2327571829041811569
+    second: '[32x32] Dungeon Bricks Plain_13'
+  - first:
+      213: 6350734562006975055
+    second: '[32x32] Dungeon Bricks Plain_14'
+  - first:
+      213: -524332252734402205
+    second: '[32x32] Dungeon Bricks Plain_15'
+  - first:
+      213: 767527661866171276
+    second: '[32x32] Dungeon Bricks Plain_16'
+  - first:
+      213: -8185210767520729107
+    second: '[32x32] Dungeon Bricks Plain_17'
+  - first:
+      213: 7995087542335286350
+    second: '[32x32] Dungeon Bricks Plain_18'
+  - first:
+      213: 7774319869560440243
+    second: '[32x32] Dungeon Bricks Plain_19'
+  - first:
+      213: 6711814913492247070
+    second: '[32x32] Dungeon Bricks Plain_20'
+  - first:
+      213: 4912011653189600191
+    second: '[32x32] Dungeon Bricks Plain_21'
+  - first:
+      213: 936576803079184733
+    second: '[32x32] Dungeon Bricks Plain_22'
+  - first:
+      213: 2389001572277649341
+    second: '[32x32] Dungeon Bricks Plain_23'
+  - first:
+      213: -1244639941974048155
+    second: '[32x32] Dungeon Bricks Plain_24'
+  - first:
+      213: -6402251643317109368
+    second: '[32x32] Dungeon Bricks Plain_25'
+  - first:
+      213: 5480533052626463095
+    second: '[32x32] Dungeon Bricks Plain_26'
+  - first:
+      213: 4610089165705554254
+    second: '[32x32] Dungeon Bricks Plain_27'
+  - first:
+      213: -8654734055308061054
+    second: '[32x32] Dungeon Bricks Plain_28'
+  - first:
+      213: 8877378538887115748
+    second: '[32x32] Dungeon Bricks Plain_29'
+  - first:
+      213: -3983951603127263909
+    second: '[32x32] Dungeon Bricks Plain_30'
+  - first:
+      213: -2259465570445846136
+    second: '[32x32] Dungeon Bricks Plain_31'
+  - first:
+      213: 2494199029041985490
+    second: '[32x32] Dungeon Bricks Plain_32'
+  - first:
+      213: 3436097705802625217
+    second: '[32x32] Dungeon Bricks Plain_33'
+  - first:
+      213: 2861338448581989329
+    second: '[32x32] Dungeon Bricks Plain_34'
+  - first:
+      213: 8053226716277536648
+    second: '[32x32] Dungeon Bricks Plain_35'
+  - first:
+      213: 7290939673278302314
+    second: '[32x32] Dungeon Bricks Plain_36'
+  - first:
+      213: -6773830392209414114
+    second: '[32x32] Dungeon Bricks Plain_37'
+  - first:
+      213: 3494810125322517928
+    second: '[32x32] Dungeon Bricks Plain_38'
+  - first:
+      213: -2882812873657518767
+    second: '[32x32] Dungeon Bricks Plain_39'
+  - first:
+      213: 7852304095568165263
+    second: '[32x32] Dungeon Bricks Plain_40'
+  - first:
+      213: -4204097951336448500
+    second: '[32x32] Dungeon Bricks Plain_41'
+  - first:
+      213: 6735919795974192102
+    second: '[32x32] Dungeon Bricks Plain_42'
+  - first:
+      213: -3979899488871942213
+    second: '[32x32] Dungeon Bricks Plain_43'
+  - first:
+      213: 8315563775675787267
+    second: '[32x32] Dungeon Bricks Plain_44'
+  - first:
+      213: 7178677126223669949
+    second: '[32x32] Dungeon Bricks Plain_45'
+  - first:
+      213: -1578320046489176045
+    second: '[32x32] Dungeon Bricks Plain_46'
+  - first:
+      213: -5754803677504878875
+    second: '[32x32] Dungeon Bricks Plain_47'
+  - first:
+      213: -4542870309898741142
+    second: '[32x32] Dungeon Bricks Plain_48'
+  - first:
+      213: 5716124358571321679
+    second: '[32x32] Dungeon Bricks Plain_49'
+  - first:
+      213: -4350144280863582698
+    second: '[32x32] Dungeon Bricks Plain_50'
+  - first:
+      213: 2137447784943423415
+    second: '[32x32] Dungeon Bricks Plain_51'
+  - first:
+      213: 8981584356770998834
+    second: '[32x32] Dungeon Bricks Plain_52'
+  - first:
+      213: 3001750432792701741
+    second: '[32x32] Dungeon Bricks Plain_53'
+  - first:
+      213: 3383953870704125169
+    second: '[32x32] Dungeon Bricks Plain_54'
+  - first:
+      213: 2640632826641257638
+    second: '[32x32] Dungeon Bricks Plain_55'
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -32,7 +368,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -87,7 +423,1183 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Plain_0'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3460e3e341aa0dc0800000000000000
+      internalID: -3671945233209203654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Plain_1'
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8b22017079f5f00800000000000000
+      internalID: 1107770089947707571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Plain_2'
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392942b119afd6920800000000000000
+      internalID: 2985317629149090451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Plain_3'
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508cbdaeb6284ef20800000000000000
+      internalID: 3451026614486026245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Plain_4'
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693caa9b43fc6b900800000000000000
+      internalID: 699974617462915990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Plain_5'
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffa742635967dfc0800000000000000
+      internalID: -3470189181013610505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Plain_6'
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a942a35342933abc0800000000000000
+      internalID: -3773109235131734886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Plain_7'
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f0c813bc2654d80800000000000000
+      internalID: -8267092916119531623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Plain_8'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aab404c5d2d134d0800000000000000
+      internalID: -3156510048251495769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Plain_9'
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08fc68a2c747c980800000000000000
+      internalID: -8518761268773062646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Plain_10'
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8e14f19647d0ae0800000000000000
+      internalID: -1581479899292374792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Plain_11'
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89532de84426bf130800000000000000
+      internalID: 3601580373606282648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Plain_12'
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa53621cd83cbbd0800000000000000
+      internalID: -2613151165929268483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Plain_13'
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8fa1c4e0cdc2bfd0800000000000000
+      internalID: -2327571829041811569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Plain_14'
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42c83fbf67522850800000000000000
+      internalID: 6350734562006975055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Plain_15'
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3615c7b189239b8f0800000000000000
+      internalID: -524332252734402205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Plain_16'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8bb1d8875ec6aa00800000000000000
+      internalID: 767527661866171276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Plain_17'
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7793e8c2a486e80800000000000000
+      internalID: -8185210767520729107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Plain_18'
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4cab0d82c144fe60800000000000000
+      internalID: 7995087542335286350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Plain_19'
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b549633bbee3eb60800000000000000
+      internalID: 7774319869560440243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Plain_20'
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12efd46a18252d50800000000000000
+      internalID: 6711814913492247070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Plain_21'
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb302f8d298fa2440800000000000000
+      internalID: 4912011653189600191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Plain_22'
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51e764e3a36ffc00800000000000000
+      internalID: 936576803079184733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Plain_23'
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf7573c540772120800000000000000
+      internalID: 2389001572277649341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Plain_24'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562cf5131962abee0800000000000000
+      internalID: -1244639941974048155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Plain_25'
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d3c6d0d02a627a0800000000000000
+      internalID: -6402251643317109368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Plain_26'
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779669536c3ce0c40800000000000000
+      internalID: 5480533052626463095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Plain_27'
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49a1c0cba35aff30800000000000000
+      internalID: 4610089165705554254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Plain_28'
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28613ef3b3534e780800000000000000
+      internalID: -8654734055308061054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Plain_29'
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3fa0b2fb8c23b70800000000000000
+      internalID: 8877378538887115748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Plain_30'
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d5045ff1926b8c0800000000000000
+      internalID: -3983951603127263909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Plain_31'
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889995be804c4a0e0800000000000000
+      internalID: -2259465570445846136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Plain_32'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7fb255dcc2d9220800000000000000
+      internalID: 2494199029041985490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Plain_33'
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c076ef78a87faf20800000000000000
+      internalID: 3436097705802625217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Plain_34'
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d395e1b82485b720800000000000000
+      internalID: 2861338448581989329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Plain_35'
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8877867d70fc2cf60800000000000000
+      internalID: 8053226716277536648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Plain_36'
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a684e88f00f9e2560800000000000000
+      internalID: 7290939673278302314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Plain_37'
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18ec97c5258ef1a0800000000000000
+      internalID: -6773830392209414114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Plain_38'
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad794dea4f008030800000000000000
+      internalID: 3494810125322517928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Plain_39'
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15578b717f03ef7d0800000000000000
+      internalID: -2882812873657518767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Plain_40'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f897facb8fcf8fc60800000000000000
+      internalID: 7852304095568165263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Plain_41'
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0eb4a1003b08a5c0800000000000000
+      internalID: -4204097951336448500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Plain_42'
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb3092bd5bca7d50800000000000000
+      internalID: 6735919795974192102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Plain_43'
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb77704508e84c8c0800000000000000
+      internalID: -3979899488871942213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Plain_44'
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308e24c3231d66370800000000000000
+      internalID: 8315563775675787267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Plain_45'
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbaa8c1efc8cf9360800000000000000
+      internalID: 7178677126223669949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Plain_46'
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318722fa74ea81ae0800000000000000
+      internalID: -1578320046489176045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Plain_47'
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6c53aab84d220b0800000000000000
+      internalID: -5754803677504878875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Plain_48'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a11d5b58b74f0c0800000000000000
+      internalID: -4542870309898741142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Plain_49'
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49e99c91d0c35f40800000000000000
+      internalID: 5716124358571321679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Plain_50'
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616dd6913de21a3c0800000000000000
+      internalID: -4350144280863582698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Plain_51'
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf8f7b8f6db9ad10800000000000000
+      internalID: 2137447784943423415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Plain_52'
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a6a81d26ff4ac70800000000000000
+      internalID: 8981584356770998834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Plain_53'
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2bebfa5d1c58a920800000000000000
+      internalID: 3001750432792701741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Plain_54'
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4a0afcd1836fe20800000000000000
+      internalID: 3383953870704125169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x32] Dungeon Bricks Plain_55'
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4103ea09965a420800000000000000
+      internalID: 2640632826641257638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
