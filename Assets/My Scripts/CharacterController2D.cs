@@ -15,13 +15,18 @@ public class CharacterController2D : MonoBehaviour
     public float gravityScale = 1.5f;
     public Camera mainCamera;
     public Animator animator;
-    bool facingRight = true;
-    float moveDirection = 0;
-    bool isGrounded = false;
-    Vector3 cameraPos;
-    Rigidbody2D r2d;
-    Collider2D mainCollider;
-    GameObject terminal;
+    public GameObject deathWall;
+    public Transform checkpoint;
+    public Door door;
+    private bool facingRight = true;
+    private float moveDirection = 0;
+    private bool isGrounded = false;
+    private bool dead;
+    private Vector3 cameraPos;
+    private Rigidbody2D r2d;
+    private Collider2D mainCollider;
+    private AudioSource deathScream;
+
     // Check every collider except Player and Ignore Raycast
     LayerMask layerMask = ~(1 << 2 | 1 << 8);
     Transform t;
@@ -35,6 +40,7 @@ public class CharacterController2D : MonoBehaviour
         r2d.freezeRotation = true;
         r2d.collisionDetectionMode = CollisionDetectionMode2D.Continuous;
         r2d.gravityScale = gravityScale;
+        deathScream = Camera.main.GetComponent<AudioSource>();
         facingRight = t.localScale.x > 0;
         //gameObject.layer = 8;
 
@@ -60,7 +66,7 @@ public class CharacterController2D : MonoBehaviour
         }
 
         // Change facing direction
-        if (moveDirection != 0)
+        if (moveDirection != 0 && !dead)
         {
             if (moveDirection > 0 && !facingRight)
             {
@@ -94,10 +100,49 @@ public class CharacterController2D : MonoBehaviour
         animator.SetBool("IsJumping", !isGrounded);
 
         // Apply movement velocity
-        r2d.velocity = new Vector2(moveDirection * maxSpeed, r2d.velocity.y);
-        animator.SetFloat("Speed", Mathf.Abs(r2d.velocity.x));
+        if (!dead)
+        {
+            r2d.velocity = new Vector2(moveDirection * maxSpeed, r2d.velocity.y);
+            animator.SetFloat("Speed", Mathf.Abs(r2d.velocity.x));
+        }
+        else
+        {
+            r2d.velocity = Vector2.zero;
+        }
 
         // Simple debug
         Debug.DrawLine(groundCheckPos, groundCheckPos - new Vector3(0, 0.23f, 0), isGrounded ? Color.green : Color.red);
     }
+
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.CompareTag("Treasure"))
+        {
+            door.active = true;
+            deathWall.GetComponent<Rigidbody2D>().velocity = new Vector2(0, -2.0f);
+            Destroy(other.gameObject);
+        }
+        else if (other.CompareTag("Death"))
+        {
+            deathScream.Play();
+            dead = true;
+            StartCoroutine("Respawn");
+        }
+        else if (other.CompareTag("Door"))
+        {
+            if (other.gameObject.GetComponent<Door>().active)
+            {
+                Debug.Log("You win!");
+            }
+        }
+    }
+
+    IEnumerator Respawn()
+    {
+        yield return new WaitForSeconds(1.0f);
+        deathWall.transform.position = Vector3.zero;
+        transform.position = checkpoint.position;
+        dead = false;
+    }
+
 }
