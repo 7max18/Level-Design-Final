@@ -13,17 +13,19 @@ public class CharacterController2D : MonoBehaviour
     public float maxSpeed = 3.4f;
     public float jumpHeight = 5.0f;
     public float gravityScale = 1.5f;
-    public Camera mainCamera;
+    public float cameraBottomBound;
+    public float cameraTopBound;
+    public float cameraLeftBound;
+    public float cameraRightBound;
     public Animator animator;
     public GameObject deathWall;
-    public float wallSpeed;
+    public Vector2 wallSpeed;
     public Transform checkpoint;
     public Door door;
     private bool facingRight = true;
     private float moveDirection = 0;
     private bool isGrounded = false;
     private bool dead;
-    private Vector3 cameraPos;
     private Rigidbody2D r2d;
     private Collider2D mainCollider;
     private AudioSource deathScream;
@@ -43,10 +45,7 @@ public class CharacterController2D : MonoBehaviour
         r2d.gravityScale = gravityScale;
         deathScream = Camera.main.GetComponent<AudioSource>();
         facingRight = t.localScale.x > 0;
-        //gameObject.layer = 8;
-
-        if (mainCamera)
-            cameraPos = mainCamera.transform.position;
+        gameObject.layer = 8;
     }
 
     // Update is called once per frame
@@ -88,8 +87,7 @@ public class CharacterController2D : MonoBehaviour
         }
 
         // Camera follow
-        if (mainCamera)
-            mainCamera.transform.position = new Vector3(t.position.x, cameraPos.y, cameraPos.z);
+        Camera.main.transform.position = new Vector3(Mathf.Clamp(t.position.x, cameraLeftBound, cameraRightBound), Mathf.Clamp(t.position.y, cameraBottomBound, cameraTopBound), Camera.main.transform.position.z);
     }
 
     void FixedUpdate()
@@ -120,7 +118,8 @@ public class CharacterController2D : MonoBehaviour
         if (other.CompareTag("Treasure"))
         {
             door.active = true;
-            deathWall.GetComponent<Rigidbody2D>().velocity = new Vector2(0, -wallSpeed);
+            deathWall.GetComponent<Rigidbody2D>().velocity = wallSpeed;
+            checkpoint = other.transform.parent;
             Destroy(other.gameObject);
         }
         else if (other.CompareTag("Death"))
