@@ -16,6 +16,7 @@ public class CharacterController2D : MonoBehaviour
     public Camera mainCamera;
     public Animator animator;
     public GameObject deathWall;
+    public float wallSpeed;
     public Transform checkpoint;
     public Door door;
     private bool facingRight = true;
@@ -96,7 +97,7 @@ public class CharacterController2D : MonoBehaviour
         Bounds colliderBounds = mainCollider.bounds;
         Vector3 groundCheckPos = colliderBounds.min + new Vector3(colliderBounds.size.x * 0.5f, 0.1f, 0);
         // Check if player is grounded
-        isGrounded = Physics2D.OverlapCircle(groundCheckPos, 0.23f, layerMask);
+        isGrounded = Physics2D.OverlapCircle(groundCheckPos, 0.2f, layerMask);
         animator.SetBool("IsJumping", !isGrounded);
 
         // Apply movement velocity
@@ -119,7 +120,7 @@ public class CharacterController2D : MonoBehaviour
         if (other.CompareTag("Treasure"))
         {
             door.active = true;
-            deathWall.GetComponent<Rigidbody2D>().velocity = new Vector2(0, -2.0f);
+            deathWall.GetComponent<Rigidbody2D>().velocity = new Vector2(0, -wallSpeed);
             Destroy(other.gameObject);
         }
         else if (other.CompareTag("Death"))
