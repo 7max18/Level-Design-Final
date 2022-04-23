@@ -6,7 +6,6 @@ using UnityEngine.Events;
 public class ThrowableObject : MonoBehaviour
 {
     public bool isGrounded;
-    public bool pickedUp;
     LayerMask layerMask = ~(1 << 2 | 1 << 8);
     private Collider2D mainCollider;
     private Vector3 spawnPoint;
