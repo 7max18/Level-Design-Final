@@ -12,20 +12,21 @@ public class CharacterController2D : MonoBehaviour
     // Move player in 2D space
     public float maxSpeed = 3.4f;
     public float jumpHeight = 5.0f;
-    public float gravityScale = 1.5f;
     public float cameraBottomBound;
     public float cameraTopBound;
     public float cameraLeftBound;
     public float cameraRightBound;
     public Animator animator;
     public GameObject deathWall;
-    public Vector2 wallSpeed;
-    public Transform checkpoint;
+    public Vector3 checkpoint;
     public Door door;
     private bool facingRight = true;
     private float moveDirection = 0;
-    private bool isGrounded = false;
+    private bool isGrounded;
+    private bool jumping;
     private bool dead;
+    private GameObject throwable;
+    private bool pickedUpObject;
     private Rigidbody2D r2d;
     private Collider2D mainCollider;
     private AudioSource deathScream;
@@ -42,28 +43,17 @@ public class CharacterController2D : MonoBehaviour
         mainCollider = GetComponent<Collider2D>();
         r2d.freezeRotation = true;
         r2d.collisionDetectionMode = CollisionDetectionMode2D.Continuous;
-        r2d.gravityScale = gravityScale;
         deathScream = Camera.main.GetComponent<AudioSource>();
         facingRight = t.localScale.x > 0;
         gameObject.layer = 8;
+        checkpoint = transform.position;
     }
 
     // Update is called once per frame
     void Update()
     {
         // Movement controls
-        if (Input.GetKey(KeyCode.LeftArrow))
-        {
-            moveDirection = -1;
-        }
-        else if (Input.GetKey(KeyCode.RightArrow))
-        {
-            moveDirection = 1;
-        }
-        else if (isGrounded || r2d.velocity.magnitude < 0.01f)
-        {
-            moveDirection = 0;
-        }
+        moveDirection = Input.GetAxisRaw("Horizontal");
 
         // Change facing direction
         if (moveDirection != 0 && !dead)
@@ -83,7 +73,21 @@ public class CharacterController2D : MonoBehaviour
         // Jumping
         if (Input.GetKeyDown(KeyCode.Space) && isGrounded)
         {
-            r2d.velocity = new Vector2(r2d.velocity.x, jumpHeight);
+            jumping = true;
+        }
+
+        if (Input.GetKeyDown(KeyCode.UpArrow) || Input.GetKeyDown(KeyCode.W))
+        {
+            if (pickedUpObject)
+            {
+                throwable.GetComponent<Rigidbody2D>().AddForce(new Vector2(10.0f * t.localScale.x, 7.5f), ForceMode2D.Impulse);
+                pickedUpObject = false;
+                throwable = null;
+            }
+            else if (throwable)
+            {
+                pickedUpObject = true;
+            }
         }
 
         // Camera follow
@@ -102,11 +106,24 @@ public class CharacterController2D : MonoBehaviour
         if (!dead)
         {
             r2d.velocity = new Vector2(moveDirection * maxSpeed, r2d.velocity.y);
+
+            if (jumping)
+            {
+                r2d.velocity += new Vector2(0, jumpHeight);
+                jumping = false;
+            }
+
             animator.SetFloat("Speed", Mathf.Abs(r2d.velocity.x));
         }
         else
         {
             r2d.velocity = Vector2.zero;
+        }
+
+        if (pickedUpObject)
+        {
+            throwable.GetComponent<Rigidbody2D>().position = Vector2.Scale(new Vector2(0, 2.5f), new Vector2(transform.localScale.x, transform.localScale.y)) + r2d.position;
+            throwable.GetComponent<Rigidbody2D>().velocity = Vector2.zero;
         }
 
         // Simple debug
@@ -118,8 +135,8 @@ public class CharacterController2D : MonoBehaviour
         if (other.CompareTag("Treasure"))
         {
             door.active = true;
-            deathWall.GetComponent<Rigidbody2D>().velocity = wallSpeed;
-            checkpoint = other.transform.parent;
+            deathWall.GetComponent<DeathWall>().activated = true;
+            checkpoint = other.transform.position;
             Destroy(other.gameObject);
         }
         else if (other.CompareTag("Death"))
@@ -137,11 +154,31 @@ public class CharacterController2D : MonoBehaviour
         }
     }
 
-    IEnumerator Respawn()
+    private void OnTriggerStay2D(Collider2D collision)
+    {
+        if (collision.CompareTag("Throwable"))
+        {
+            if (collision.GetComponent<ThrowableObject>().isGrounded)
+            {
+                throwable = collision.gameObject;
+            }
+        }
+    }
+
+    private void OnTriggerExit2D(Collider2D collision)
+    {
+        if (collision.CompareTag("Throwable"))
+        {
+            throwable = null;
+        }
+    }
+
+    private IEnumerator Respawn()
     {
         yield return new WaitForSeconds(1.0f);
         deathWall.transform.position = Vector3.zero;
-        transform.position = checkpoint.position;
+        EventManager.TriggerEvent("Restart");
+        transform.position = checkpoint;
         dead = false;
     }
 
