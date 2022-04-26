@@ -6,6 +6,7 @@ using UnityEngine.Events;
 public class ThrowableObject : MonoBehaviour
 {
     public bool isGrounded;
+    public bool thrown;
     LayerMask layerMask = ~(1 << 2 | 1 << 8);
     private Collider2D mainCollider;
     private Vector3 spawnPoint;
@@ -31,6 +32,14 @@ public class ThrowableObject : MonoBehaviour
     {
         mainCollider = GetComponent<Collider2D>();
         spawnPoint = transform.position;
+    }
+
+    private void Update()
+    {
+        if (isGrounded)
+        {
+            thrown = false;
+        }
     }
 
     private void FixedUpdate()

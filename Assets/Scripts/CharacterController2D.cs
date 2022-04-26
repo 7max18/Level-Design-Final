@@ -3,6 +3,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 [RequireComponent(typeof(Rigidbody2D))]
 [RequireComponent(typeof(Collider2D))]
@@ -30,9 +31,10 @@ public class CharacterController2D : MonoBehaviour
     private Rigidbody2D r2d;
     private Collider2D mainCollider;
     private AudioSource deathScream;
+    
 
     // Check every collider except Player and Ignore Raycast
-    LayerMask layerMask = ~(1 << 2 | 1 << 8);
+    LayerMask layerMask = ~(1 << 8);
     Transform t;
 
     // Use this for initialization
@@ -80,7 +82,8 @@ public class CharacterController2D : MonoBehaviour
         {
             if (pickedUpObject)
             {
-                throwable.GetComponent<Rigidbody2D>().AddForce(new Vector2(10.0f * t.localScale.x, 7.5f), ForceMode2D.Impulse);
+                throwable.GetComponent<Rigidbody2D>().AddForce(new Vector2(7.5f * Mathf.Sign(t.localScale.x), 7.5f), ForceMode2D.Impulse);
+                throwable.GetComponent<ThrowableObject>().thrown = true;
                 pickedUpObject = false;
                 throwable = null;
             }
@@ -143,13 +146,15 @@ public class CharacterController2D : MonoBehaviour
         {
             deathScream.Play();
             dead = true;
+            pickedUpObject = false;
+            throwable = null;
             StartCoroutine("Respawn");
         }
         else if (other.CompareTag("Door"))
         {
             if (other.gameObject.GetComponent<Door>().active)
             {
-                Debug.Log("You win!");
+                SceneManager.LoadScene(other.gameObject.GetComponent<Door>().nextLevel);
             }
         }
     }

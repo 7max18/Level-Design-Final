@@ -7,6 +7,7 @@ public class Door : MonoBehaviour
     public Sprite closed;
     public Sprite open;
     public bool active;
+    public int nextLevel;
     private SpriteRenderer sr;
     void Start()
     {

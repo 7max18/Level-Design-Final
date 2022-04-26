@@ -21,7 +21,7 @@ public class DeathWall : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Throwable") && !collision.isTrigger)
         {
-            if (!collision.gameObject.GetComponent<ThrowableObject>().isGrounded)
+            if (collision.gameObject.GetComponent<ThrowableObject>().thrown)
             {
                 StartCoroutine("TempSpeedDecrease");
             }
