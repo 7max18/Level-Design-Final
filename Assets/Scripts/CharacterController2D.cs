@@ -13,19 +13,20 @@ public class CharacterController2D : MonoBehaviour
     // Move player in 2D space
     public float maxSpeed = 3.4f;
     public float jumpHeight = 5.0f;
+    public Vector2 throwForce;
     public float cameraBottomBound;
     public float cameraTopBound;
     public float cameraLeftBound;
     public float cameraRightBound;
     public Animator animator;
     public GameObject deathWall;
-    public Vector3 checkpoint;
     public Door door;
     private bool facingRight = true;
     private float moveDirection = 0;
     private bool isGrounded;
     private bool jumping;
     private bool dead;
+    private Vector3 checkpoint;
     private GameObject throwable;
     private bool pickedUpObject;
     private Rigidbody2D r2d;
@@ -82,7 +83,14 @@ public class CharacterController2D : MonoBehaviour
         {
             if (pickedUpObject)
             {
-                throwable.GetComponent<Rigidbody2D>().AddForce(new Vector2(7.5f * Mathf.Sign(t.localScale.x), 7.5f), ForceMode2D.Impulse);
+                if (t.localScale.x > 0)
+                {
+                    throwable.GetComponent<Rigidbody2D>().AddForce(throwForce, ForceMode2D.Impulse);
+                }
+                else
+                {
+                    throwable.GetComponent<Rigidbody2D>().AddForce(new Vector2(-throwForce.x, throwForce.y), ForceMode2D.Impulse);
+                }
                 throwable.GetComponent<ThrowableObject>().thrown = true;
                 pickedUpObject = false;
                 throwable = null;
