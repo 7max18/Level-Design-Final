@@ -4,8 +4,14 @@ using UnityEngine;
 
 public class DeathWall : MonoBehaviour
 {
+    public Vector3 startingLocation;
     public bool activated;
     public Vector2 wallSpeed;
+
+    void Start()
+    {
+        startingLocation = transform.position;
+    }
 
     // Update is called once per frame
     void Update()
@@ -13,6 +19,7 @@ public class DeathWall : MonoBehaviour
         if (activated)
         {
             GetComponent<Rigidbody2D>().velocity = wallSpeed;
+            GetComponent<AudioSource>().Play();
             activated = false;
         }
     }

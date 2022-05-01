@@ -150,7 +150,7 @@ public class CharacterController2D : MonoBehaviour
             checkpoint = other.transform.position;
             Destroy(other.gameObject);
         }
-        else if (other.CompareTag("Death"))
+        else if (other.CompareTag("Death") && !dead)
         {
             deathScream.Play();
             dead = true;
@@ -189,7 +189,7 @@ public class CharacterController2D : MonoBehaviour
     private IEnumerator Respawn()
     {
         yield return new WaitForSeconds(1.0f);
-        deathWall.transform.position = Vector3.zero;
+        deathWall.transform.position = deathWall.GetComponent<DeathWall>().startingLocation;
         EventManager.TriggerEvent("Restart");
         transform.position = checkpoint;
         dead = false;
