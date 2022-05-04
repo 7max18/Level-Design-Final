@@ -27,7 +27,7 @@ public class CharacterController2D : MonoBehaviour
     private bool jumping;
     private bool dead;
     private Vector3 checkpoint;
-    private GameObject throwable;
+    public GameObject throwable;
     private bool pickedUpObject;
     private Rigidbody2D r2d;
     private Collider2D mainCollider;
@@ -171,7 +171,7 @@ public class CharacterController2D : MonoBehaviour
     {
         if (collision.CompareTag("Throwable"))
         {
-            if (collision.GetComponent<ThrowableObject>().isGrounded)
+            if (collision.GetComponent<ThrowableObject>().isGrounded && throwable == null)
             {
                 throwable = collision.gameObject;
             }
@@ -180,7 +180,7 @@ public class CharacterController2D : MonoBehaviour
 
     private void OnTriggerExit2D(Collider2D collision)
     {
-        if (collision.CompareTag("Throwable"))
+        if (collision.CompareTag("Throwable") && !pickedUpObject)
         {
             throwable = null;
         }
